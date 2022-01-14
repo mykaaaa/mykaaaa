@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mykaaaa
+- 👋 Hi, I’m Myka
 - 👀 I’m interested in Coding and 3D creations
 - 🌱 I’m currently learning Blender and Unity
 - 📫 Discord : Myka#2001
