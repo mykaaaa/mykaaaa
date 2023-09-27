@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Myka
-- 👀 I’m interested in Coding and 3D creations
-- 🌱 I’m currently learning Blender and Unity
-- 📫 Discord : Myka#2001
+- 📫 Discord : myka
 
 <!---
 Mykaaaa/Mykaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
